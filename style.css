@@ -1,0 +1,16 @@
+body {
+    background-color: cornflowerblue;
+    color: white;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+#camera {
+    border: 2px dashed black;
+    width: 397;
+    height: 298;
+}
+.objectNames {
+    color: tomato;
+}
